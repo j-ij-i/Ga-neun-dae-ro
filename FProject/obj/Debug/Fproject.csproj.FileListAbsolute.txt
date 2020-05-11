@@ -1,0 +1,60 @@
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\asp\Fproject\bin\roslyn\csc.exe
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\asp\Fproject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\asp\Fproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\asp\Fproject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\asp\Fproject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\asp\Fproject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\asp\Fproject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\asp\Fproject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\asp\Fproject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\asp\Fproject\bin\roslyn\vbc.exe
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\asp\Fproject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\asp\Fproject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\asp\Fproject\bin\Fproject.dll.config
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\asp\Fproject\bin\Fproject.dll
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\asp\Fproject\bin\Fproject.pdb
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\asp\Fproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\asp\Fproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\asp\Fproject\obj\Debug\Fproject.csprojResolveAssemblyReference.cache
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\asp\Fproject\obj\Debug\Fproject.dll
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\asp\Fproject\obj\Debug\Fproject.pdb
+C:\서버프밍\SVR-ASP\asp (2)\Fproject\bin\roslyn\csc.exe
+C:\서버프밍\SVR-ASP\asp (2)\Fproject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\서버프밍\SVR-ASP\asp (2)\Fproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\서버프밍\SVR-ASP\asp (2)\Fproject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\서버프밍\SVR-ASP\asp (2)\Fproject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\서버프밍\SVR-ASP\asp (2)\Fproject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\서버프밍\SVR-ASP\asp (2)\Fproject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\서버프밍\SVR-ASP\asp (2)\Fproject\bin\roslyn\System.Collections.Immutable.dll
+C:\서버프밍\SVR-ASP\asp (2)\Fproject\bin\roslyn\System.Reflection.Metadata.dll
+C:\서버프밍\SVR-ASP\asp (2)\Fproject\bin\roslyn\vbc.exe
+C:\서버프밍\SVR-ASP\asp (2)\Fproject\bin\roslyn\VBCSCompiler.exe
+C:\서버프밍\SVR-ASP\asp (2)\Fproject\bin\roslyn\VBCSCompiler.exe.config
+C:\서버프밍\SVR-ASP\asp (2)\Fproject\bin\Fproject.dll.config
+C:\서버프밍\SVR-ASP\asp (2)\Fproject\bin\Fproject.dll
+C:\서버프밍\SVR-ASP\asp (2)\Fproject\bin\Fproject.pdb
+C:\서버프밍\SVR-ASP\asp (2)\Fproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\서버프밍\SVR-ASP\asp (2)\Fproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\서버프밍\SVR-ASP\asp (2)\Fproject\obj\Debug\Fproject.csprojResolveAssemblyReference.cache
+C:\서버프밍\SVR-ASP\asp (2)\Fproject\obj\Debug\Fproject.dll
+C:\서버프밍\SVR-ASP\asp (2)\Fproject\obj\Debug\Fproject.pdb
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\project\Fproject\bin\roslyn\csc.exe
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\project\Fproject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\project\Fproject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\project\Fproject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\project\Fproject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\project\Fproject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\project\Fproject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\project\Fproject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\project\Fproject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\project\Fproject\bin\roslyn\vbc.exe
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\project\Fproject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\project\Fproject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\project\Fproject\bin\Fproject.dll.config
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\project\Fproject\bin\Fproject.dll
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\project\Fproject\bin\Fproject.pdb
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\project\Fproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\project\Fproject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\project\Fproject\obj\Debug\Fproject.csprojResolveAssemblyReference.cache
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\project\Fproject\obj\Debug\Fproject.dll
+C:\Users\Univercity\Desktop\2018-2학기\서버프로그래밍\project\Fproject\obj\Debug\Fproject.pdb

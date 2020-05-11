@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{77242DD8-0A48-45E7-9291-4210EA43FF8D}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Fproject</RootNamespace>
+    <AssemblyName>Fproject</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="aboutboard.aspx" />
+    <Content Include="Api_controller.aspx" />
+    <Content Include="bestBoardlist.aspx" />
+    <Content Include="css\animate.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\custom-fonts.css" />
+    <Content Include="css\flexslider.css" />
+    <Content Include="css\font-awesome.css" />
+    <Content Include="css\jcarousel.css" />
+    <Content Include="css\overwrite.css" />
+    <Content Include="css\style.css" />
+    <Content Include="Exp_detail.aspx" />
+    <Content Include="Exp_result.aspx" />
+    <Content Include="FAQ.aspx" />
+    <Content Include="find_email.aspx" />
+    <Content Include="find_Exp.aspx" />
+    <Content Include="find_route.aspx" />
+    <Content Include="givePass.aspx" />
+    <Content Include="img\avatar.png" />
+    <Content Include="img\bg_direction_nav.png" />
+    <Content Include="img\glyphicons-halflings-white.png" />
+    <Content Include="img\glyphicons-halflings.png" />
+    <Content Include="img\logo\logo.png" />
+    <Content Include="img\logo\logo2.png" />
+    <Content Include="img\nivo-bullets.png" />
+    <Content Include="img\slides\1.png" />
+    <Content Include="img\slides\2.png" />
+    <Content Include="img\slides\3.png" />
+    <Content Include="intro.aspx" />
+    <Content Include="Ispass.aspx" />
+    <Content Include="IspassQna.aspx" />
+    <Content Include="js\animate.js" />
+    <Content Include="js\bootstrap.min.js" />
+    <Content Include="js\custom.js" />
+    <Content Include="js\jquery.easing.1.3.js" />
+    <Content Include="js\jquery.fancybox-media.js" />
+    <Content Include="js\jquery.fancybox.pack.js" />
+    <Content Include="js\jquery.flexslider.js" />
+    <Content Include="js\jquery.js" />
+    <Content Include="js\validate.js" />
+    <Content Include="Modify.aspx" />
+    <Content Include="ModifyNotice.aspx" />
+    <Content Include="ModifyQnA.aspx" />
+    <Content Include="myrt_result.aspx" />
+    <Content Include="Noticelist.aspx" />
+    <Content Include="NoticeView.aspx" />
+    <Content Include="NoticeWrite.aspx" />
+    <Content Include="packages.config" />
+    <Content Include="MasterPage.Master" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <Content Include="Qnalist.aspx" />
+    <Content Include="QnaView.aspx" />
+    <Content Include="QnaWrite.aspx" />
+    <Content Include="rcmdBoardlist.aspx" />
+    <Content Include="rcmdBoardView.aspx" />
+    <Content Include="rcmdBoardWrite.aspx" />
+    <Content Include="rt_result.aspx" />
+    <Content Include="Web.sitemap" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Default.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Login.aspx" />
+    <Content Include="Logout.aspx" />
+    <Content Include="Registers.aspx" />
+    <Content Include="sitemaplist.aspx" />
+    <Content Include="skins\default.css" />
+    <Content Include="UserInfo.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="aboutboard.aspx.cs">
+      <DependentUpon>aboutboard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="aboutboard.aspx.designer.cs">
+      <DependentUpon>aboutboard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Api_controller.aspx.cs">
+      <DependentUpon>Api_controller.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Api_controller.aspx.designer.cs">
+      <DependentUpon>Api_controller.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="bestBoardlist.aspx.cs">
+      <DependentUpon>bestBoardlist.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="bestBoardlist.aspx.designer.cs">
+      <DependentUpon>bestBoardlist.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Exp_detail.aspx.cs">
+      <DependentUpon>Exp_detail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Exp_detail.aspx.designer.cs">
+      <DependentUpon>Exp_detail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Exp_result.aspx.cs">
+      <DependentUpon>Exp_result.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Exp_result.aspx.designer.cs">
+      <DependentUpon>Exp_result.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FAQ.aspx.cs">
+      <DependentUpon>FAQ.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FAQ.aspx.designer.cs">
+      <DependentUpon>FAQ.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="find_email.aspx.cs">
+      <DependentUpon>find_email.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="find_email.aspx.designer.cs">
+      <DependentUpon>find_email.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="find_Exp.aspx.cs">
+      <DependentUpon>find_Exp.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="find_Exp.aspx.designer.cs">
+      <DependentUpon>find_Exp.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="find_route.aspx.cs">
+      <DependentUpon>find_route.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="find_route.aspx.designer.cs">
+      <DependentUpon>find_route.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="givePass.aspx.cs">
+      <DependentUpon>givePass.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="givePass.aspx.designer.cs">
+      <DependentUpon>givePass.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="intro.aspx.cs">
+      <DependentUpon>intro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="intro.aspx.designer.cs">
+      <DependentUpon>intro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Ispass.aspx.cs">
+      <DependentUpon>Ispass.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Ispass.aspx.designer.cs">
+      <DependentUpon>Ispass.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="IspassQna.aspx.cs">
+      <DependentUpon>IspassQna.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="IspassQna.aspx.designer.cs">
+      <DependentUpon>IspassQna.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Logout.aspx.cs">
+      <DependentUpon>Logout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Logout.aspx.designer.cs">
+      <DependentUpon>Logout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPage.Master.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPage.Master.designer.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Modify.aspx.cs">
+      <DependentUpon>Modify.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modify.aspx.designer.cs">
+      <DependentUpon>Modify.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ModifyNotice.aspx.cs">
+      <DependentUpon>ModifyNotice.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ModifyNotice.aspx.designer.cs">
+      <DependentUpon>ModifyNotice.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ModifyQnA.aspx.cs">
+      <DependentUpon>ModifyQnA.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ModifyQnA.aspx.designer.cs">
+      <DependentUpon>ModifyQnA.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="myrt_result.aspx.cs">
+      <DependentUpon>myrt_result.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="myrt_result.aspx.designer.cs">
+      <DependentUpon>myrt_result.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Noticelist.aspx.cs">
+      <DependentUpon>Noticelist.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Noticelist.aspx.designer.cs">
+      <DependentUpon>Noticelist.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="NoticeView.aspx.cs">
+      <DependentUpon>NoticeView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NoticeView.aspx.designer.cs">
+      <DependentUpon>NoticeView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="NoticeWrite.aspx.cs">
+      <DependentUpon>NoticeWrite.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NoticeWrite.aspx.designer.cs">
+      <DependentUpon>NoticeWrite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Qnalist.aspx.cs">
+      <DependentUpon>Qnalist.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Qnalist.aspx.designer.cs">
+      <DependentUpon>Qnalist.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="QnaView.aspx.cs">
+      <DependentUpon>QnaView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="QnaView.aspx.designer.cs">
+      <DependentUpon>QnaView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="QnaWrite.aspx.cs">
+      <DependentUpon>QnaWrite.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="QnaWrite.aspx.designer.cs">
+      <DependentUpon>QnaWrite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="rcmdBoardlist.aspx.cs">
+      <DependentUpon>rcmdBoardlist.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="rcmdBoardlist.aspx.designer.cs">
+      <DependentUpon>rcmdBoardlist.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="rcmdBoardView.aspx.cs">
+      <DependentUpon>rcmdBoardView.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="rcmdBoardView.aspx.designer.cs">
+      <DependentUpon>rcmdBoardView.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="rcmdBoardWrite.aspx.cs">
+      <DependentUpon>rcmdBoardWrite.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="rcmdBoardWrite.aspx.designer.cs">
+      <DependentUpon>rcmdBoardWrite.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Registers.aspx.cs">
+      <DependentUpon>Registers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Registers.aspx.designer.cs">
+      <DependentUpon>Registers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="rt_result.aspx.cs">
+      <DependentUpon>rt_result.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="rt_result.aspx.designer.cs">
+      <DependentUpon>rt_result.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="sitemaplist.aspx.cs">
+      <DependentUpon>sitemaplist.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sitemaplist.aspx.designer.cs">
+      <DependentUpon>sitemaplist.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserInfo.aspx.cs">
+      <DependentUpon>UserInfo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserInfo.aspx.designer.cs">
+      <DependentUpon>UserInfo.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="contactform\" />
+    <Folder Include="css\fancybox\" />
+    <Folder Include="fonts\" />
+    <Folder Include="js\flexslider\" />
+    <Folder Include="js\google-code-prettify\" />
+    <Folder Include="js\portfolio\" />
+    <Folder Include="js\quicksand\" />
+    <Folder Include="Models\" />
+    <Folder Include="Photo\" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>57685</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:57685/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>이 프로젝트는 이 컴퓨터에 없는 NuGet 패키지를 참조합니다. 해당 패키지를 다운로드하려면 NuGet 패키지 복원을 사용하십시오. 자세한 내용은 http://go.microsoft.com/fwlink/?LinkID=322105를 참조하십시오. 누락된 파일은 {0}입니다.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

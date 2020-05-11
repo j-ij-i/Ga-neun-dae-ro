@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Default.aspx" title="Home"  description="메인 페이지">
+
+    <siteMapNode url="" title="INTRO"  description="소개 페이지" >
+      <siteMapNode url="intro.aspx" title="페이지 소개"  description="페이지 소개 페이지" />
+      <siteMapNode url="sitemaplist.aspx" title="사이트맵 소개"  description="사이트맵 소개 페이지" />
+    </siteMapNode>
+
+    <siteMapNode url="" title="휴게소 조회"  description="휴게소 조회 페이지" >
+      <siteMapNode url="find_route.aspx" title="추천 휴게소 찾기"  description="추천 휴게소 페이지" />
+      <siteMapNode url="find_Exp.aspx" title="휴게소 검색"  description="휴게소 검색 페이지" />
+    </siteMapNode>
+
+    <siteMapNode url="" title="게시판"  description="게시판 페이지" >
+      <siteMapNode url="~/Noticelist.aspx" title="공지사항"  description="공지사항 페이지" />
+      <siteMapNode url="~/bestBoardlist.aspx" title="베스트게시판"  description="베스트게시판 페이지" />
+      <siteMapNode url="~/rcmdBoardlist.aspx" title="음식추천게시판"  description="음식추천게시판 페이지" />
+    </siteMapNode>
+
+    <siteMapNode url="" title="고객센터"  description="고객센터 페이지" >
+      <siteMapNode url="FAQ.aspx" title="자주묻는질문"  description="FAQ 페이지" />
+      <siteMapNode url="Qnalist.aspx" title="QnA"  description="QnA 페이지" />
+    </siteMapNode>
+  </siteMapNode>
+</siteMap>
