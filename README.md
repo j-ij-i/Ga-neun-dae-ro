@@ -13,26 +13,29 @@
 ![image](https://user-images.githubusercontent.com/46212602/95671509-1ef04580-0bd3-11eb-9755-1a86e914cc42.png)
 
 ## 3. 기능
-### 1. 출발과 도착에 따른 휴게소의 음식정보
+### 0. 메인 화면
 
 ![image](https://user-images.githubusercontent.com/46212602/95671525-4a733000-0bd3-11eb-8178-7dbbea61880f.png)
-### 2. 휴게소 음식 상세정보
-
-![image](https://user-images.githubusercontent.com/46212602/95671535-6a0a5880-0bd3-11eb-9db6-cbcaf40fdd35.png)
-![image](https://user-images.githubusercontent.com/46212602/95671538-6c6cb280-0bd3-11eb-9c9d-a62a8b39a538.png)
-
-### 3. 휴게소 검색 정보
+### 1. 출발과 도착에 따른 휴게소의 음식정보
 
 ![image](https://user-images.githubusercontent.com/46212602/95671558-8c9c7180-0bd3-11eb-937b-8d716dfea765.png)
 ![image](https://user-images.githubusercontent.com/46212602/95671559-8dcd9e80-0bd3-11eb-9980-8027e4d6eab6.png)
 
-### 4. 휴게소 게시판
-
+### 2. 휴게소 음식 상세정보
 ![image](https://user-images.githubusercontent.com/46212602/95671571-a76ee600-0bd3-11eb-98c7-83f441cf92a3.png)
 ![image](https://user-images.githubusercontent.com/46212602/95671577-c66d7800-0bd3-11eb-8ca8-a089fdd37b38.png)
 
 
-### 5. 회원 시스템
+### 3. 휴게소 검색 정보
 
+### 4. 휴게소 게시판
 ![image](https://user-images.githubusercontent.com/46212602/95671677-c28e2580-0bd4-11eb-8124-3291a09ddac8.png)
 ![image](https://user-images.githubusercontent.com/46212602/95671691-ef423d00-0bd4-11eb-915d-094959940951.png)
+
+
+
+### 5. 회원 시스템
+
+![image](https://user-images.githubusercontent.com/46212602/95671535-6a0a5880-0bd3-11eb-9db6-cbcaf40fdd35.png)
+![image](https://user-images.githubusercontent.com/46212602/95671538-6c6cb280-0bd3-11eb-9c9d-a62a8b39a538.png)
+
