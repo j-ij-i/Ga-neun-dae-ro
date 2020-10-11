@@ -22,7 +22,7 @@
 ![image](https://user-images.githubusercontent.com/46212602/95677366-fd598300-0bff-11eb-8de8-29fcb30e15fa.png)
 
 
-#### 사용 API
+### * 사용 API
 
 ![image](https://user-images.githubusercontent.com/46212602/95675368-bfedf900-0bf1-11eb-83e0-d0b4d320cb1c.png)
 
