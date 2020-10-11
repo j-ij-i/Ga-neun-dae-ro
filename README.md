@@ -1,4 +1,4 @@
-# Ga-neun-dae-ro
+# 가는대로(Ga-neun-dae-ro)
 
 
 ## 1. 소개
