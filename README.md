@@ -22,8 +22,7 @@
 ![image](https://user-images.githubusercontent.com/46212602/95671559-8dcd9e80-0bd3-11eb-9980-8027e4d6eab6.png)
 
 ### 2. 휴게소 음식 상세정보
-![image](https://user-images.githubusercontent.com/46212602/95671571-a76ee600-0bd3-11eb-98c7-83f441cf92a3.png)
-![image](https://user-images.githubusercontent.com/46212602/95671577-c66d7800-0bd3-11eb-8ca8-a089fdd37b38.png)
+
 
 
 ### 3. 휴게소 검색 정보
@@ -37,7 +36,8 @@
 
 
 ### 5. 회원 시스템
-
-![image](https://user-images.githubusercontent.com/46212602/95671535-6a0a5880-0bd3-11eb-9db6-cbcaf40fdd35.png)
 ![image](https://user-images.githubusercontent.com/46212602/95671538-6c6cb280-0bd3-11eb-9c9d-a62a8b39a538.png)
+![image](https://user-images.githubusercontent.com/46212602/95671535-6a0a5880-0bd3-11eb-9db6-cbcaf40fdd35.png)
 
+![image](https://user-images.githubusercontent.com/46212602/95671571-a76ee600-0bd3-11eb-98c7-83f441cf92a3.png)
+![image](https://user-images.githubusercontent.com/46212602/95671577-c66d7800-0bd3-11eb-8ca8-a089fdd37b38.png)
