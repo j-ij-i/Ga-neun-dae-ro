@@ -13,6 +13,8 @@
 ![image](https://user-images.githubusercontent.com/46212602/95671509-1ef04580-0bd3-11eb-9755-1a86e914cc42.png)
 
 ## 3. 주요 기능
+
+### 1. 경로 기반 휴게소 추천
 #### 휴게소 API를 이용해 사용자가 출발지와 도착지 경로를 입력하면, 해당 경로의 고속도로 휴게소를 나타냅니다.
 
 ### [1] 출발지, 도착지 입력
@@ -21,6 +23,14 @@
 ### [2] 경로의 휴게소 메뉴 추천
 ![image](https://user-images.githubusercontent.com/46212602/95677366-fd598300-0bff-11eb-8de8-29fcb30e15fa.png)
 
+### 2. 검색을 통한 휴게소 메뉴 추천
+![image](https://user-images.githubusercontent.com/46212602/95678012-8c689a00-0c04-11eb-81e5-5161b4e1fd67.png)
+
+
+### 3. 이용자와 관리자를 위한 게시판
+
+#### [1] 유저를 위한 게시판 - [음식추천 게시판, BEST 게시판]
+#### [2] 관리자를 위한 게시판 - [Q&A 게시판, 공지 게시판]
 
 ### * 사용 API
 
