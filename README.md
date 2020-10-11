@@ -29,8 +29,10 @@
 ### 3. 휴게소 검색 정보
 
 ### 4. 휴게소 게시판
+![image](https://user-images.githubusercontent.com/46212602/95671894-d8044f00-0bd6-11eb-912e-0b9fc586723c.png)
 ![image](https://user-images.githubusercontent.com/46212602/95671677-c28e2580-0bd4-11eb-8124-3291a09ddac8.png)
 ![image](https://user-images.githubusercontent.com/46212602/95671691-ef423d00-0bd4-11eb-915d-094959940951.png)
+![image](https://user-images.githubusercontent.com/46212602/95671903-f2d6c380-0bd6-11eb-8cc3-1b50bd494394.png)
 
 
 
