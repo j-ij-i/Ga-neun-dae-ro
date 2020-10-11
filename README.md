@@ -35,12 +35,20 @@
 
 ![image](https://user-images.githubusercontent.com/46212602/95672573-d3429980-0bdc-11eb-8dc8-9dcbdaaabed5.png)
 ![image](https://user-images.githubusercontent.com/46212602/95672607-1dc41600-0bdd-11eb-89dc-91f8301e278b.png)
-### 4. 휴게소 게시판
-![image](https://user-images.githubusercontent.com/46212602/95671894-d8044f00-0bd6-11eb-912e-0b9fc586723c.png)
-![image](https://user-images.githubusercontent.com/46212602/95671677-c28e2580-0bd4-11eb-8124-3291a09ddac8.png)
-![image](https://user-images.githubusercontent.com/46212602/95672365-23206100-0bdb-11eb-97b2-f04afa5c53c2.png)
-![image](https://user-images.githubusercontent.com/46212602/95671903-f2d6c380-0bd6-11eb-8cc3-1b50bd494394.png)
+### 4. 가는대로 게시판
+#### 4.1 공지 게시판
 
+![image](https://user-images.githubusercontent.com/46212602/95671677-c28e2580-0bd4-11eb-8124-3291a09ddac8.png)
+#### 4.2 음식추천 게시판
+
+
+![image](https://user-images.githubusercontent.com/46212602/95672365-23206100-0bdb-11eb-97b2-f04afa5c53c2.png)
+#### 4.3 베스트 게시판
+
+![image](https://user-images.githubusercontent.com/46212602/95671903-f2d6c380-0bd6-11eb-8cc3-1b50bd494394.png)
+#### 4.4 Q&A 게시판
+
+![image](https://user-images.githubusercontent.com/46212602/95671894-d8044f00-0bd6-11eb-912e-0b9fc586723c.png)
 
 
 ### 5. 회원 시스템
