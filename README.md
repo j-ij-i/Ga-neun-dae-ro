@@ -20,11 +20,22 @@
 #### 사이트맵
 
 ![image](https://user-images.githubusercontent.com/46212602/95672398-624eb200-0bdb-11eb-9f62-4d78abb7864d.png)
-### 1. 출발과 도착에 따른 휴게소의 음식정보
+### 1. 출발과 도착에 따른 휴게소 음식 검색
+출발지와 도착지를 설정하면 그에 따른 고속도로가 나오게 되고 고속도로에 존재하는 휴게소들의 대표 음식을 나열 됩니다. 검색 시 제한 금액을 써서 원하는 가격 내에서 검색이 가능하여 이용자가 싸고 맛있는 음식을 고를 수 있도록 했습니다.
+
+#### [ 1.1 검색화면 ]
 
 ![image](https://user-images.githubusercontent.com/46212602/95671558-8c9c7180-0bd3-11eb-937b-8d716dfea765.png)
+
+#### [ 1.2 검색 결과 화면 ]
+
 ![image](https://user-images.githubusercontent.com/46212602/95672538-89f24a00-0bdc-11eb-8ec1-12b0bddabee1.png)
+
+#### [ 1.3 휴게소 메뉴 자세히 보기]
+
 ![image](https://user-images.githubusercontent.com/46212602/95672300-a2616500-0bda-11eb-8ac6-b046930bfbe3.png)
+
+
 
 ### 2. 휴게소 음식 상세정보
 ![image](https://user-images.githubusercontent.com/46212602/95672500-3e3fa080-0bdc-11eb-9fa9-9382236a24c8.png)
