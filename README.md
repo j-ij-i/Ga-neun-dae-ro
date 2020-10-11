@@ -29,16 +29,21 @@
 
 #### [ 1.2 검색 결과 화면 ]
 
+![image](https://user-images.githubusercontent.com/46212602/95674203-916c2000-0be9-11eb-9b4e-3828ff8819cb.png)
+
+
+### 2. 휴게소 메뉴 상세 확인
+
+#### [ 2.1 검색 결과]
+
 ![image](https://user-images.githubusercontent.com/46212602/95672538-89f24a00-0bdc-11eb-8ec1-12b0bddabee1.png)
 
-#### [ 1.3 휴게소 메뉴 자세히 보기]
+#### [ 2.2 휴게소 메뉴 자세히 보기]
 
-![image](https://user-images.githubusercontent.com/46212602/95672300-a2616500-0bda-11eb-8ac6-b046930bfbe3.png)
-
-
-
-### 2. 휴게소 음식 상세정보
 ![image](https://user-images.githubusercontent.com/46212602/95672500-3e3fa080-0bdc-11eb-9fa9-9382236a24c8.png)
+
+#### [ 2.3 휴게소 관련 게시글 보기]
+
 ![image](https://user-images.githubusercontent.com/46212602/95672432-b2c60f80-0bdb-11eb-8bb9-572531ac0103.png)
 
 
