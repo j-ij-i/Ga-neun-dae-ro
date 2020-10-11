@@ -12,8 +12,21 @@
 ![image](https://user-images.githubusercontent.com/46212602/95671785-c1a9c380-0bd5-11eb-8d34-0d9e239278a3.png)
 ![image](https://user-images.githubusercontent.com/46212602/95671509-1ef04580-0bd3-11eb-9755-1a86e914cc42.png)
 
-## 3. 기능
+## 3. 주요 기능
+휴게소 API를 이용해 사용자가 출발지와 도착지 경로를 입력하면 
 
+![image](https://user-images.githubusercontent.com/46212602/95675556-13ad1200-0bf3-11eb-82e7-e9303883950b.png)
+
+
+#### 사용 API
+
+![image](https://user-images.githubusercontent.com/46212602/95675368-bfedf900-0bf1-11eb-83e0-d0b4d320cb1c.png)
+
+고속도로 휴게소 대표음식 현황
+https://www.data.go.kr/data/15001293/openapi.do
+
+휴게소 푸드메뉴현황 조회 서비스
+https://www.data.go.kr/data/15059337/openapi.do
 
 ## 4. 화면 및 상세 설명
 ### 0. 메인 화면
