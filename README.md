@@ -19,15 +19,16 @@
 
 #### 사이트맵
 
-![image](https://user-images.githubusercontent.com/46212602/95672231-0f282f80-0bda-11eb-8025-fb5d7c71b818.png)
+![image](https://user-images.githubusercontent.com/46212602/95672398-624eb200-0bdb-11eb-9f62-4d78abb7864d.png)
 ### 1. 출발과 도착에 따른 휴게소의 음식정보
 
 ![image](https://user-images.githubusercontent.com/46212602/95671558-8c9c7180-0bd3-11eb-937b-8d716dfea765.png)
-![image](https://user-images.githubusercontent.com/46212602/95671559-8dcd9e80-0bd3-11eb-9980-8027e4d6eab6.png)
+![image](https://user-images.githubusercontent.com/46212602/95672538-89f24a00-0bdc-11eb-8ec1-12b0bddabee1.png)
 ![image](https://user-images.githubusercontent.com/46212602/95672300-a2616500-0bda-11eb-8ac6-b046930bfbe3.png)
 
 ### 2. 휴게소 음식 상세정보
-
+![image](https://user-images.githubusercontent.com/46212602/95672500-3e3fa080-0bdc-11eb-9fa9-9382236a24c8.png)
+![image](https://user-images.githubusercontent.com/46212602/95672432-b2c60f80-0bdb-11eb-8bb9-572531ac0103.png)
 
 
 ### 3. 휴게소 검색 정보
