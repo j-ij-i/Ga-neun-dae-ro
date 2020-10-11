@@ -1,13 +1,18 @@
 # Ga-neun-dae-ro
+
+
+## 1. 소개
 먹는대로(https://github.com/j-ij-i/Muk-neun-dae-ro)의 ASP 기반 웹 페이지
 
-
-
+## 2. 사용 기술
+### Database
 ![image](https://user-images.githubusercontent.com/46212602/95671507-1dbf1880-0bd3-11eb-829f-0ee151269922.png)
+
+### Languages
+![image](https://user-images.githubusercontent.com/46212602/95671785-c1a9c380-0bd5-11eb-8d34-0d9e239278a3.png)
 ![image](https://user-images.githubusercontent.com/46212602/95671509-1ef04580-0bd3-11eb-9755-1a86e914cc42.png)
 
-
-
+## 3. 기능
 ![image](https://user-images.githubusercontent.com/46212602/95671525-4a733000-0bd3-11eb-8178-7dbbea61880f.png)
 
 ![image](https://user-images.githubusercontent.com/46212602/95671535-6a0a5880-0bd3-11eb-9db6-cbcaf40fdd35.png)
