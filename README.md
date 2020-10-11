@@ -33,8 +33,8 @@
 
 ### 3. 휴게소 검색 정보
 
-![image](https://user-images.githubusercontent.com/46212602/95672316-c02eca00-0bda-11eb-9c5e-40958564c4ef.png)
-![image](https://user-images.githubusercontent.com/46212602/95672326-ca50c880-0bda-11eb-9cf2-1a9dd72040d9.png)
+![image](https://user-images.githubusercontent.com/46212602/95672573-d3429980-0bdc-11eb-8dc8-9dcbdaaabed5.png)
+![image](https://user-images.githubusercontent.com/46212602/95672607-1dc41600-0bdd-11eb-89dc-91f8301e278b.png)
 ### 4. 휴게소 게시판
 ![image](https://user-images.githubusercontent.com/46212602/95671894-d8044f00-0bd6-11eb-912e-0b9fc586723c.png)
 ![image](https://user-images.githubusercontent.com/46212602/95671677-c28e2580-0bd4-11eb-8124-3291a09ddac8.png)
